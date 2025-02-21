@@ -1,0 +1,6 @@
+# VSCode
+.vscode/
+
+# Compiled
+obj/
+bin/
